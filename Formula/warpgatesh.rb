@@ -1,8 +1,8 @@
 class Warpgatesh < Formula
   desc "Synchronize Warpgate SSH targets with local OpenSSH aliases"
   homepage "https://github.com/M0okz/warpgatesh"
-  url "https://github.com/M0okz/warpgatesh/archive/refs/tags/v0.1.23.tar.gz"
-  sha256 "06ae846a5e44b4df331989d320d44799a70a9e9a9962cdaffe10065a6d6662f9"
+  url "https://github.com/M0okz/warpgatesh/archive/refs/tags/v0.1.24.tar.gz"
+  sha256 "5774941180b586c680ef625c1a1c5c045d4d728e6ba89e22d9670b345886199d"
   license "Apache-2.0"
   head "https://github.com/M0okz/warpgatesh.git", branch: "main"
 
