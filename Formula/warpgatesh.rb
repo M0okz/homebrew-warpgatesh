@@ -1,8 +1,11 @@
+# frozen_string_literal: true
+
+# Synchronize Warpgate targets with OpenSSH and the independent agent.
 class Warpgatesh < Formula
   desc "Synchronize Warpgate SSH targets with local OpenSSH aliases"
   homepage "https://github.com/M0okz/warpgatesh"
-  url "https://github.com/M0okz/warpgatesh/archive/refs/tags/v0.1.24.tar.gz"
-  sha256 "5774941180b586c680ef625c1a1c5c045d4d728e6ba89e22d9670b345886199d"
+  url "https://github.com/M0okz/warpgatesh/archive/refs/tags/v0.1.25.tar.gz"
+  sha256 "757f77f44f0e8a5a4ecb3305d1c8185f5b9b12b6f1a87f0003b26922fe4a76e3"
   license "Apache-2.0"
   head "https://github.com/M0okz/warpgatesh.git", branch: "main"
 
